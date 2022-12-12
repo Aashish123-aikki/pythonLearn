@@ -1,0 +1,10 @@
+l1=[1,5,6,2,9,0,45,67,22]
+l1.insert(3,5)
+print(l1)
+l1.sort();
+print(l1)
+dic={"name":"Aashish",
+     "Marks":23}
+a=dic.keys()
+b=dic.values()
+print(a,b)
